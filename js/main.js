@@ -53,7 +53,7 @@ jQuery(document).ready(function($) {
         $(window).resize(function(){
           // Keep current slide to left of window on resize
           var displacment = window.innerWidth*currSlide;
-          $slides.css('transform', 'translateX(-'+displacment+'px)');
+          $slides.css('transfmrm', 'translateX(-'+displacment+'px)');
         });
         
         // cache
