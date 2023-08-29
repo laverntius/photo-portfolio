@@ -295,22 +295,22 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/BronzeBridge1.jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-image: url(../img/IMG_5186.jpg);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/third_bg.jpg);
+  background-image: url(../img/IMG_1124.JPG);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../img/IMG_6494.jpg);
  }
 .slides .slide:nth-child(5) {
-  background-image: url(../img/fifth_bg.jpg);
+  background-image: url(../img/BronzeBridge2.jpg);
 }
 .slides .slide:nth-child(6) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../img/IMG_4338.jpg);
 }
 .slides .slide img {
   width: 100%;
