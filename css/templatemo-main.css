@@ -312,6 +312,9 @@ nav a:hover::before {
 .slides .slide:nth-child(6) {
   background-image: url(../img/IMG_4338.jpg);
 }
+.slides .slide:nth-child(7) {
+	background-image: url(../img/IMG_0813.jpg);
+  }
 .slides .slide img {
   width: 100%;
 }
