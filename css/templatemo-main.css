@@ -693,6 +693,66 @@ https://templatemo.com/tm-512-moonlight
 	  color: #232323;
 	  background-color: #fff;
   }
+
+  .fifth-content h2 {
+	  font-size: 24px;
+	  text-transform: uppercase;
+	  font-weight: 700;
+	  color: #fff;
+	  letter-spacing: 0.5px;
+	  border-bottom: 2px solid #fff;
+	  display: inline-block;
+	  padding-bottom: 10px;
+	  margin-bottom: 20px;
+	  margin-top: 0px;
+  }
+  
+  .fifth-content p {
+	  font-size: 13px;
+	  color: #fff;
+	  letter-spacing: 0.5px;
+	  font-weight: 300;
+	  line-height: 24px;
+	  margin-bottom: 20px;
+  }
+  
+  .fifth-content .main-btn a {
+	  display: inline-block;
+	  border: 2px solid #fff;
+	  padding: 8px 15px;
+	  font-size: 13px;
+	  text-transform: uppercase;
+	  letter-spacing: 1px;
+	  text-decoration: none;
+	  transition: all 0.5s;
+  }
+  
+  .fifth-content .col-md-6 {
+	  margin: 0px;
+	  padding: 0px;
+  }
+  
+  .first-content .fb-btn {
+	  display: inline-block;
+  }
+  
+  .first-content .fb-btn a {
+	  display: inline-block;
+	  background-color: #fff;
+	  border: 2px solid #fff;
+	  padding: 8px 15px;
+	  font-size: 13px;
+	  text-transform: uppercase;
+	  letter-spacing: 1px;
+	  color: #232323;
+	  text-decoration: none;
+	  transition: all 0.5s;
+  }
+  
+  .first-content .fb-btn a:hover {
+	  color: #fff;
+	  background-color: transparent;
+  }
   
   .footer .content {
 	  left: 30%;
@@ -831,6 +891,11 @@ https://templatemo.com/tm-512-moonlight
   
 	  .fifth-content #contact {
 		  padding: 15px 15px 15px 15px;
+	  }
+
+	  .fifth-content .left-content {
+		  padding: 30px;
+		  text-align: center;
 	  }
   
   }
